@@ -1,6 +1,6 @@
 # Blog App
  > It is a project with educational purposes using Ruby on Rails.
- > Full task description [here](https://www.theodinproject.com/courses/ruby-on-rails/lessons/your-first-rails-application-ruby-on-rails)
+ > Full task description [here](https://www.theodinproject.com/courses/ruby-on-rails/lessons/ruby-on-rails-ruby-on-rails)
 
 ## Built With
 
@@ -38,7 +38,7 @@
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!. Feel free to check the [issues page](issues/).
+Contributions, issues and feature requests are welcome!. Feel free to check the [issues page](https://github.com/sergiomauz/RoR-Blog-App/issues).
 
 ## Show your support
 
